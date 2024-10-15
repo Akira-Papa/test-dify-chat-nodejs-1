@@ -1,0 +1,23 @@
+# 依存関係
+node_modules/
+
+# 環境変数
+.env
+
+# ログファイル
+*.log
+
+# ビルド出力
+dist/
+build/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# エディタ設定
+.vscode/
+.idea/
+
+# npm
+package-lock.json
